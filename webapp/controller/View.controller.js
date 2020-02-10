@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("com.ey.cassa.test.com.ey.cassa.test.controller.View", {
 		onInit: function () {
-
+			alert("Hello World");
 		}
 	});
 });
